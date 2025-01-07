@@ -1,19 +1,21 @@
-# Facebook Email Scraper
+# Business Email Finder
 
-A web application that finds business email addresses from Facebook pages. Upload a CSV file with business names and locations, and get back a CSV with their email addresses.
+Find business email addresses quickly and efficiently. This tool helps you find email addresses from Facebook business pages by processing a CSV file of business names and locations.
 
-## Requirements
+## Application Interface
 
-- Python 3.8 or higher
-- Chrome browser installed
-- Internet connection
+![Application Interface](static/interface.png)
+
+## File Upload
+
+![File Upload](static/upload.png)
 
 ## Installation
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd FacebookEmailScraper
+git clone https://github.com/banddude/facebook-email-scraper.git
+cd facebook-email-scraper
 ```
 
 2. Install required packages:
@@ -32,13 +34,6 @@ python app.py
 ```
 http://localhost:5001
 ```
-
-3. Upload a CSV file with the following columns:
-   - business_name
-   - location
-
-4. Wait for processing to complete
-5. Download the results file
 
 ## CSV Format
 
