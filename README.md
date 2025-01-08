@@ -1,5 +1,25 @@
 # Business Email Finder
 
+## Quick Start - Download and Run the App
+1. Go to https://github.com/banddude/facebook-email-scraper
+2. Click the green "Code" button
+3. Click "Download ZIP"
+4. Unzip the downloaded file
+5. Find `FacebookEmailScraper.app` in the unzipped folder
+6. On macOS:
+   - Either double-click to run
+   - Or drag to Applications folder (recommended)
+
+**First-time Launch:**
+Since this is a downloaded app, macOS security requires:
+1. Right-click the app
+2. Select "Open" from the menu
+3. Click "Open" in the security dialog
+
+After this first launch, you can open normally by double-clicking.
+
+**Note:** This is a macOS application and will only work on macOS systems.
+
 Find business email addresses quickly and efficiently. This tool helps you find email addresses from Facebook business pages by processing a CSV file of business names and locations.
 
 ## Application Interface
